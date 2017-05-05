@@ -1,3 +1,3 @@
-# John Rofrano
+# Biography
 
 John Rofrano is a Senior Technical Staff Member at IBM T.J. Watson Research Center where he leads a team of researchers working on cloud native workload management technologies leveraging IBM Bluemix, Cloud Foundry, Docker, OpenWhisk, and DevOps pipelines, to build 12-Factor microservices. He is part of a team of DevOps Champions that are fostering the DevOps culture at IBM Research. John is also an Adjunct Professor at New York University where he teaches a graduate courses on DevOps. He is the author of numerous papers and patents in the field of computer science and several books on video editing and music creation.
